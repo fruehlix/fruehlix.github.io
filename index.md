@@ -11,3 +11,6 @@ da dieser Text im wesentlichen ein Dummy für eine Übung mit git ist.
 * charakterbildend wie kaum ein anderes Beispiel
 * voller besonderer Poesie
 * die neue Form des Lorem Ipsum
+
+> Wie sagt schon mein Zeichenlehrer?
+> Das sind doch alles Leichenzehrer!
