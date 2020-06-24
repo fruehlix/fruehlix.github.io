@@ -14,3 +14,5 @@ da dieser Text im wesentlichen ein Dummy für eine Übung mit git ist.
 
 > Wie sagt schon mein Zeichenlehrer?
 > Das sind doch alles Leichenzehrer!
+
+<img src="https://soulmetalaffair.de/ellingen/band1.jpg"/>
