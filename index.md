@@ -1,1 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Fruehlix macht eine Übung zu Let's Git!
